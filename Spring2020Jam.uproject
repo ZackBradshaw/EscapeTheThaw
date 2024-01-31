@@ -7,10 +7,6 @@
 		{
 			"Name": "Landmass",
 			"Enabled": true
-		},
-		{
-			"Name": "WakaTimeForUE",
-			"Enabled": true
 		}
 	]
 }

@@ -1,5 +1,6 @@
 
-[Project Banner Video](https://www.youtube.com/watch?v=BLxJoS0vSgg&t=137s).
+[![Project Banner Video Preview](https://img.youtube.com/vi/BLxJoS0vSgg/0.jpg)](https://www.youtube.com/watch?v=BLxJoS0vSgg&t=137s)
+
 
 This project is a side-scrolling game built in Unreal Engine for the Spring 2021 Game Jam. To get started, follow the steps below:
 
